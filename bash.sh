@@ -6,4 +6,3 @@ do
    let COUNTER=$COUNTER+1 
 done
 echo "File change for new tree"
-echo "File change for final move"
